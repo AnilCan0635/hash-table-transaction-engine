@@ -1,0 +1,3 @@
+*.docx linguist-documentation
+*.pdf linguist-documentation
+*.txt linguist-detectable=false
